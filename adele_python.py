@@ -7,3 +7,6 @@ print(D)
 C="AMORE"
 G="PAXAO"
 H=(C+G)
+
+#adiconado plot
+my.plt(C,G)
